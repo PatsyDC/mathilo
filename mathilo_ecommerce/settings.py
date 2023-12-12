@@ -84,16 +84,16 @@ WSGI_APPLICATION = 'mathilo_ecommerce.wsgi.application'
 
 
 # Database
-# https://docs.djangoproject.com/en/4.2/ref/settings/#databases
+# https://docs.djangoproject.com/en/4.2/ref/settings/#
 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mathilo',
+        'NAME': 'railway',
         'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',
-        'PORT': 3306,
+        'PASSWORD': 'gaFEDEdCh4AeEeghDcHDDBe3gDFGE5C4',
+        'HOST': 'viaduct.proxy.rlwy.net',
+        'PORT': 35262,
     }
 }
 
